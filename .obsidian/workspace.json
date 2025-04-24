@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82a07e25e93a1ee5",
+        "id": "4e74715e4af1ed99",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba87d26c0b8e594",
+            "id": "9ec5c37dc7e9f63f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "像素画工具网站.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "像素画工具网站 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -174,8 +173,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b91ca29edb18fdca",
+  "active": "7226fcd5227cac63",
   "lastOpenFiles": [
+    "Readme.md",
+    "My-Notebook-Secret/测试1.md",
+    "My-Notebook-Secret/Readme.md",
     "也是让我写上教程了/使用SakuraFrp进行联机.md",
     "自用",
     "也是让我写上教程了",
@@ -185,7 +187,6 @@
     "收集癖是吧/像素画软件或网站.md",
     "自用/我的插件密钥.md",
     "记录/未命名",
-    "Readme.md",
     "收集癖是吧",
     "未命名.md",
     "临时使用",
