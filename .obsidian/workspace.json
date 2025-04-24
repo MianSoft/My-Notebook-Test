@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "cfdd3514cc8519be",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a07e25e93a1ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba87d26c0b8e594",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d30e25702424c161",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df4650f307ca7a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b91ca29edb18fdca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a9e8e2deecfc5cd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a7ca2b11a11980b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c12d5b9deef6ed9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f2590143219bd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2395d37c7d859b8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "像素画工具网站.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "像素画工具网站 的反向链接列表"
+            }
+          },
+          {
+            "id": "0232530af388af43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "f423379ac40376cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f4e3b6c6dcf17c3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "像素画工具网站.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "像素画工具网站 的大纲"
+            }
+          },
+          {
+            "id": "7226fcd5227cac63",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b91ca29edb18fdca",
+  "lastOpenFiles": [
+    "也是让我写上教程了/使用SakuraFrp进行联机.md",
+    "自用",
+    "也是让我写上教程了",
+    "临时使用/163Key的一些东西.md",
+    "我对TETR.IO中字体文件的了解过程/Readme.md",
+    "收集癖是吧/像素风字体.md",
+    "收集癖是吧/像素画软件或网站.md",
+    "自用/我的插件密钥.md",
+    "记录/未命名",
+    "Readme.md",
+    "收集癖是吧",
+    "未命名.md",
+    "临时使用",
+    "我对TETR.IO中字体文件的了解过程/readme.md"
+  ]
+}
